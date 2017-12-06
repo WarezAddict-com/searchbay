@@ -1,8 +1,8 @@
 SearchBay
-A Twitter Bootstrap template for a torrent website
+- A Twitter Bootstrap template for a torrent website
 
 About
-Simple Twitter Bootstrap template for what could be a torrent search engine website 
+- Simple Twitter Bootstrap template for a torrent search engine website 
 
 Made using
 - Bootstrap 4.x (Latest) - (https://getbootstrap.com)
@@ -23,5 +23,5 @@ Changes
 - Find Google Analytics JS code and change ga('create', 'UA-XXXXXXXX-X', 'auto'); to your unique number.
 
 Credits
-**Original design and code by [tiagoanleite](https://github.com/tiagoanleite/searchbay)
+- **Original design and code by [tiagoanleite](https://github.com/tiagoanleite/searchbay)
 I only updated it to the latest Twitter Bootstrap 4.x and added a few other small things...**
