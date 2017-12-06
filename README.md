@@ -13,7 +13,7 @@
 - Bootstrap, Font Awesome, and jQuery now uses CDN URLs. You don't host these files on your server or use bandwidth
 - Custom .css and .js for personal customizations
 - Added some important META tags (google-site-verification, robots, etc)
-- Added FavIcons, tons of them! iOS, Android, Android Chrome, Windows Metro, Safari, etc etc...
+- Added FavIcons, tons of them! iOS, Android, Android Chrome, Windows Metro, Safari, IE 10, IE 11, Edge etc etc...
 - Added Google Analytics JS Code
 - Added "(Smooth) Scroll back to the top of the page" link at the bottom of page
 - More to come!
