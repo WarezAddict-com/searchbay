@@ -1,10 +1,10 @@
 # SearchBay
 A Twitter Bootstrap template for a torrent website
 
-### About
+## About
 Simple Twitter Bootstrap template for a torrent search engine website 
 
-### Made Using
+## Made Using
 - **Bootstrap 4.x** (Latest) - https://getbootstrap.com
 - **Font Awesome 4.7.x** (Latest) - https://fontawesome.io
 - **jQuery 3.2.1** (Latest) - https://jquery.com
