@@ -12,6 +12,11 @@
     "gulp-uglify": "^3.0.0"
   },
   "devDependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 3 versions"
+  ]
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
