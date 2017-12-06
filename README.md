@@ -1,4 +1,4 @@
-SearchBay
+# SearchBay
 - A Twitter Bootstrap template for a torrent website
 
 About
