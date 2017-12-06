@@ -21,3 +21,5 @@ gulp.task('minify-css', () => {
   .pipe(rename({ extname: '.min.css' }))
   .pipe(gulp.dest('css'));
 });
+
+gulp.task('default', ['minify-js', 'minify-css'])
