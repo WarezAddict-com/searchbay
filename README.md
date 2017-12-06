@@ -1,19 +1,14 @@
-#searchbay
-A Bootstrap template for a torrent website
-
-
+#SearchBay
+A Twitter Bootstrap template for a torrent website
 
 ##About
-This project is nothing more than a simple Bootstrap template for what could be a torrent search engine website. 
-
-
+Simple Twitter Bootstrap template for what could be a torrent search engine website 
 
 ##Made using
-* Bootstrap v3.3.1 (http://getbootstrap.com)
-* Font Awesome 4.2.0 (http://fontawesome.io)
-* Bootsnippet (http://bootsnipp.com)
+* Bootstrap 4.x (Latest) - (https://getbootstrap.com)
+* Font Awesome 4.7.x (Latest) - (https://fontawesome.io)
+* jQuery 3.2.1 (Latest) - (https://jquery.com)
 
-
-
-##License
-This project is available using the MIT license. Feel free to enhance it or even make you own torrent site using this template!
+### Credits
+**Original design and code by [tiagoanleite](https://github.com/tiagoanleite/searchbay).
+I only updated it to make it compatible with the latest Twitter Bootstrap 4.x and the latest jQuery 3.x!**
