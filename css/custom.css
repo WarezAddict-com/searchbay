@@ -1,0 +1,14 @@
+/** Custom CSS for Search Bay **/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+    color: #000000;
+    padding-top: 70px;
+}
+
+a:active, 
+a:hover {
+    text-decoration: none;
+    outline-width: 0;
+}
