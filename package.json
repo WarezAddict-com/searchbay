@@ -1,0 +1,24 @@
+{
+  "name": "searchbay",
+  "version": "0.0.1",
+  "description": "Search Bay Torrent Website",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "search",
+    "bay",
+    "torrent"
+  ],
+  "author": "h22turbo <turbo@warezaddict.com>",
+  "license": "MIT"
+}
